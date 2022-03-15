@@ -1,3 +1,4 @@
+This is a course project from codecademy. The orginal documents are provided from the course platform and files are set up by the platform. My contribution is to set up url between pages and components using react-route library.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
